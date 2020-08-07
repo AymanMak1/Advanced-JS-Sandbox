@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "brand": "Canon",
+    "model": "M50"
+  },
+  {
+    "id": 2,
+    "brand": "Canon",
+    "model": "R5"
+  },
+  {
+    "id": 3,
+    "brand": "Lumix",
+    "model": "G5"
+  }
+]
