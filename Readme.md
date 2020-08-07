@@ -1,4 +1,4 @@
-# Advance JS SandBox
+# Advanced JS SandBox
 
 - ES6 Higher Order Arrays Functions :
 
